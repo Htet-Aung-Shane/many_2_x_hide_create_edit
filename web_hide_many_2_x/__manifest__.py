@@ -4,6 +4,7 @@
     'application':True,
     'installable': True,
     'license':'LGPL-3',
+    'version': '17.0.0.0',
     'depends': ['web', 'website_enterprise'],
     'assets': {
         'web.assets_backend': [
