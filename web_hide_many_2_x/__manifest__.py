@@ -19,7 +19,7 @@
     "installable": True,
     "license": "LGPL-3",
     "version": "17.0.0.0",
-    "depends": ["web", "website_enterprise"],
+    "depends": ["web"],
     "assets": {
         "web.assets_backend": [
             "web_hide_many_2_x/static/src/js/many_2_one.js",
