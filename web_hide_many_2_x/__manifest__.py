@@ -3,10 +3,11 @@
     "description": """This module hides the Create and Edit options in Many2One and Many2Many fields in Odoo.
     """,
     "author": "MT Tech",
+    "website": "https://mttech-mm.com",
     "application": True,
     "installable": True,
     "license": "LGPL-3",
-    "version": "17.0.0.0",
+    "version": "18.0.0.0",
     "depends": ["web"],
     "assets": {
         "web.assets_backend": [
