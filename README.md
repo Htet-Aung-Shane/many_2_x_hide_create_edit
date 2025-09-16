@@ -71,3 +71,7 @@ Do you want me to also add **screenshots (placeholders)** in the README so users
 
 ### After installing
 ![After](screenshot_after.png)
+
+Further information
+-----------------
+HTML Description: `<static/description/index.html>`__

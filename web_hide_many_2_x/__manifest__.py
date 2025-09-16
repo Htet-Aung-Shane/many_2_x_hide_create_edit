@@ -15,4 +15,8 @@
             "web_hide_many_2_x/static/src/js/many_2_many.js",
         ],
     },
+    'images': [
+        'static/description/screenshot_after.jpg',
+        'static/description/screenshot_before.jpg',
+    ],
 }
