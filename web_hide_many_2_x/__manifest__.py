@@ -16,7 +16,8 @@
         ],
     },
     'images': [
-        'static/description/screenshot_after.jpg',
-        'static/description/screenshot_before.jpg',
+        'static/description/banner.png',
+        'static/description/screenshot_after.png',  
+        'static/description/screenshot_before.png',
     ],
 }
